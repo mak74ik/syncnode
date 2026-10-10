@@ -1,0 +1,5 @@
+# Bytecode & Cache
+__pycache__/
+*.py[cod]
+sync_storage/
+.DS_Store
