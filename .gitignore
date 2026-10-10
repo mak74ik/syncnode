@@ -1,5 +1,31 @@
-# Bytecode & Cache
+# Python
 __pycache__/
 *.py[cod]
-sync_storage/
+*$py.class
+
+# Rust
+target/
+Cargo.lock
+
+# .NET / C#
+bin/
+obj/
+*.user
+
+# Node / Bun
+node_modules/
+bun.lockb
+
+# C / Asm
+*.o
+*.so
+*.out
+
+# System
 .DS_Store
+.env
+
+*.pem
+*.enc
+*.key
+.pytest_cache/
