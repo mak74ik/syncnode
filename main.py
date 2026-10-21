@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 SyncNode: Lightweight asynchronous P2P file sync node with end-to-end encryption.
-Built autonomously by Auto Qwen AI.
+Built autonomously by Yoshi.
 """
 
 import argparse
